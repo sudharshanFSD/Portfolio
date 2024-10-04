@@ -33,7 +33,7 @@ export const ProjectList = [
       title: "E-Book Website",
       description:
         `An e-book website is dedicated to providing users with access to a wide
-range of digital books.`,
+         range of digital books.`,
       tech_stack: ["HTML", "CSS", "JavaScript"],
       github_url: "https://github.com/muthukumar24/e-book-website",
       demo_url: "https://e-book-website.netlify.app/",
@@ -141,7 +141,7 @@ experience for customers looking to purchase high-quality audio products.`,
     //   name: "Figma",
     // },
     {
-      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
+      img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg",
       name: "TailwindCSS",
     },
     {
