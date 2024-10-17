@@ -21,34 +21,21 @@ function About() {
           </Slide>
           <div className="AboutBio">
             <Slide direction="right">
-              Hello! My name is Muthukumar S, a passionate MERN Stack developer
-              with hands-on experience in building full-stack web applications.
-              I am skilled in front-end development using React, back-end
-              development with Node.js and Express, and efficient database
-              management with MongoDB. My strong foundation in JavaScript
-              enables me to create dynamic and responsive web solutions.
+            Hello! My name is Sudharshan, a fresher MERN Stack developer with a strong interest in building full-stack web applications. 
+            I have foundational knowledge in front-end development using React, back-end development with Node.js and Express, and basic experience with MongoDB for database management. 
+            My passion for JavaScript allows me to develop dynamic and responsive web solutions as I continue to grow and refine my skills in full-stack development.
             </Slide>
 
-            <br />
-            <br />
-
-            <Slide direction="right">
-              My previous experience includes working as an Automation Tester at
-              Tech Mahindra, where I was involved in high-impact projects for
-              major banking clients like Mizrahi Tefahot Bank in Israel and Itaú
-              Unibanco in Brazil. During my tenure, I focused on ensuring the
-              quality and reliability of T24 banking software by creating and
-              maintaining automated test scripts, executing test cases, and
-              reporting defects using tools like JIRA and MAGiX.
-            </Slide>
-
-            <br />
+    
+            
             <br />
             <Slide direction="right">
-              Working collaboratively within a team towards a shared objective
-              has been an incredibly rewarding and unique experience for me. I
-              am eager to continue exploring exciting projects in the future,
-              with a particular interest in web development.
+            I recently graduated in 2024 from Hindusthan College of Arts and Science with a degree in Computer Applications. During my college years, 
+            I had the honor of serving as the President of my department, where I led various initiatives and gained leadership experience. I also presented at two international
+             conferences and one national-level conference, which helped sharpen my communication skills. Additionally, I served on the Management Operating Committee (MoC) for two years .
+             I completed a Full Stack Developer course at GUVI, affiliated with IIT-Madras, where I gained hands-on experience in building full-stack web applications.
+
+
             </Slide>
             <Slide direction="right">
               <div className="tagline2">

@@ -9,7 +9,7 @@ import { Fade } from "react-awesome-reveal"; // Import Fade from react-awesome-r
 function Contact() {
   const [showTooltip, setShowTooltip] = useState(false);
   const copyToClipboard = () => {
-    navigator.clipboard.writeText("muthukumar24081999@gmail.com");
+    navigator.clipboard.writeText("tsrssudharshan@gmail.com");
     setShowTooltip(true);
     setTimeout(() => {
       setShowTooltip(false);
@@ -24,7 +24,7 @@ function Contact() {
           <div className="BigCard">
             <Email>
               <div style={{ display: 'flex', alignItems: 'center', columnGap: '20px', rowGap: '10px', flexWrap: 'wrap', justifyContent: 'center' }}>
-                <span>muthukumar24081999@gmail.com</span>
+                <span>tsrssudharshan@gmail.com</span>
                 <Tooltip
                   PopperProps={{
                     disablePortal: true,
@@ -45,7 +45,7 @@ function Contact() {
               </div>
               <a
                 className="btn PrimaryBtn btn-shadow"
-                href="mailto:muthukumar24081999@gmail.com"
+                href="mailto:tsrssudharshan@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
