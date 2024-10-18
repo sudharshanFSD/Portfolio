@@ -24,9 +24,9 @@ export const ProjectList = [
       title: "Todo Application",
       description:
         `A To-Do App is a simple task management tool that allows users to create, organize, and track their daily tasks and activities.`,
-      tech_stack: ["React.js", "Bootstrap"],
-      github_url: "https://github.com/sudharshanFSD/todo-frontend",
-      demo_url: "https://todofrontendproject.netlify.app/",
+      tech_stack: ["React.js", "Material ui","Node.js", "Express.js", "MongoDB"],
+      github_url: "https://github.com/sudharshanFSD/todo-fr",
+      demo_url: "https://jazzy-cupcake-681d64.netlify.app/",
     },
 
   ];
