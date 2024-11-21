@@ -16,8 +16,8 @@ export const ProjectList = [
         `WildLens E-Commerce is a dynamic online shopping platform that offers a wide range of products,
          categorized for Men, Women, and Kids.`,
       tech_stack: ["React.js", "Material ui","Node.js", "Express.js", "MongoDB"],
-      github_url: "https://wildcart.netlify.app/",
-      demo_url: "",
+      github_url: "https://github.com/sudharshanFSD/Ecommerce-Frontend",
+      demo_url: "https://wildcart.netlify.app/",
     },
     {
       img: "/TODOAPPIMG.png",
