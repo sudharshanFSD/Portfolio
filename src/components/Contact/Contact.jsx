@@ -24,7 +24,7 @@ function Contact() {
           <div className="BigCard">
             <Email>
               <div style={{ display: 'flex', alignItems: 'center', columnGap: '20px', rowGap: '10px', flexWrap: 'wrap', justifyContent: 'center' }}>
-                <span>tsrssudharshan@gmail.com</span>
+                <span>sudhav0723@gmail.com</span>
                 <Tooltip
                   PopperProps={{
                     disablePortal: true,
@@ -45,7 +45,7 @@ function Contact() {
               </div>
               <a
                 className="btn PrimaryBtn btn-shadow"
-                href="mailto:tsrssudharshan@gmail.com"
+                href="mailto:sudhav0723@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >

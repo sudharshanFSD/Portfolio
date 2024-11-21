@@ -10,7 +10,7 @@ export const ProjectList = [
       demo_url: "https://wildlens25.netlify.app/",
     },
     {
-      img: "/construction.jpg",
+      img: "/wildcart.png",
       title: "WildLens E-Commerce",
       description:
         `WildLens E-Commerce is a dynamic online shopping platform that offers a wide range of products,
