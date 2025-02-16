@@ -1,4 +1,6 @@
 // --------------------------------------- Project List
+import Redux from '../../public/Redux.png';
+import tanstack from '../../public/tanstack.png'
 export const ProjectList = [
     {
       img: "/wildlens.png",
@@ -67,6 +69,14 @@ export const ProjectList = [
       name: "Bootstrap",
     },
     {
+      img: Redux,
+      name: "Redux",
+    },
+    {
+      img: tanstack,
+      name: "Tanstack",
+    },
+    {
       img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg",
       name: "Material UI",
     },
@@ -74,4 +84,5 @@ export const ProjectList = [
       img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
       name: "VS Code",
     },
+
   ];
