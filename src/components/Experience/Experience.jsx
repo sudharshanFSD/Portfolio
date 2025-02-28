@@ -24,6 +24,29 @@ function Experience() {
         <StyledCard>
           <Details>
             <div className="title-row">
+
+            <span
+  style={{
+    display: "inline-flex",
+    alignItems: "center",
+    justifyContent: "center",
+    width: "100%",
+    textAlign: "center",
+    fontSize: "22px", // Clean and readable
+    fontWeight: "600", // Semi-bold for clarity
+    fontFamily: "Poppins, Arial, sans-serif", // Modern font
+    letterSpacing: "1.5px", // Elegant spacing
+    textTransform: "uppercase", // Professional look
+  }}
+>
+  <strong style={{ color: "rgb(57, 134, 250)" }}>INTERNSHIP EXPERIENCE</strong>
+</span>
+
+
+
+            <br/>
+            <br/>
+
               <span><strong>Tech Jose, Kovilpatti, Tamilnadu</strong></span>
 
               <Tooltip
@@ -67,16 +90,16 @@ function Experience() {
 
 export default Experience;
 
-// Styled Components
 const ExperienceWrapper = styled.section`
   width: 100vw;
   min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #000;
+  background: linear-gradient(135deg, #000, #111);
   color: #fff;
-  padding: 20px;
+  padding: 40px;
+  overflow: hidden;
 
   @media (max-width: 768px) {
     padding: 20px;
@@ -92,13 +115,15 @@ const StyledCard = styled.div`
   max-width: 800px;
   padding: 40px;
   border-radius: 20px;
-  background: #111;
-  box-shadow: 0px 10px 20px rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  box-shadow: 0px 10px 20px rgba(57, 134, 250, 0.2);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.2);
 
   &:hover {
     transform: translateY(-5px);
-    box-shadow: 0px 15px 30px rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 15px 30px rgba(57, 134, 250, 0.4);
   }
 
   @media (max-width: 768px) {
@@ -120,5 +145,16 @@ const Details = styled.div`
 
   li {
     margin-bottom: 10px;
+  }
+
+  .title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  strong {
+    font-size: 18px;
   }
 `;

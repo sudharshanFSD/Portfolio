@@ -22,6 +22,15 @@ export const ProjectList = [
       demo_url: "https://wildcart.netlify.app/",
     },
     {
+      img: "/NEXUS.png",
+      title: "Nexus disaster management",
+      description:
+        `Nexus is a disaster management app allows users to find shelter and seek help from the other users.`,
+      tech_stack: ["React.js", "Material ui","Node.js", "Express.js", "MongoDB"],
+      github_url: "https://github.com/sudharshanFSD/nexus-frontend",
+      demo_url: "https://nexustogether.netlify.app/signup",
+    },
+    {
       img: "/TODOAPPIMG.png",
       title: "Todo Application",
       description:
